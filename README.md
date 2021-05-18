@@ -1,2 +1,7 @@
-# clothes website 
-### using html , css , javascript , glide.js
+# Clothes website 
+> using 
+> * html 
+> * css 
+> * javascript 
+> * glide.js
+>   * carousel javascript library
