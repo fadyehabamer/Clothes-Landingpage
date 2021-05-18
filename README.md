@@ -1,7 +1,7 @@
 # Clothes website 
-> using 
-> * html 
-> * css 
-> * javascript 
-> * glide.js
->   * carousel javascript library
+> Tools used : 
+* html 
+* css 
+* javascript 
+* glide.js
+  * carousel javascript library
